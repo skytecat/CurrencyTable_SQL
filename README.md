@@ -32,7 +32,7 @@ Please take a look at the Logical View of our Database Model.
 ![T01_06](misc/images/tables.png)
 
 ## Chapter III
-## Exercise 00 - Classical DWH
+## Exercise 00 Classical DWH
 
 Let's take a look at the data sources and the first logical data layer (ODS - Operational Data Store) in the DWH.
 
@@ -41,7 +41,7 @@ Let's take a look at the data sources and the first logical data layer (ODS - Op
 Please write an SQL statement that returns the total volume (sum of all money) of transactions from the user balance aggregated by user and balance type. Note that all data should be processed, including data with anomalies. 
 
 ## Chapter IV
-## Exercise 01 - Detailed Query
+## Exercise 01 Detailed Query
 
 Before diving deeper into this task, please apply the following INSERT statements.
 
