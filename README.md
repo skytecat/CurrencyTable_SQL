@@ -9,7 +9,7 @@ Resume: Today you will know what DWH is and how to create a first ETL process.
 1. [Chapter I](#chapter-i) \
     1.1. [Preamble](#preamble)
 2. [Chapter II](#chapter-ii) \
-    2.1. [Instructions for running the code](#general-rules)
+    2.1. [Instructions](#instructions)
 3. [Chapter III](#chapter-iii) \
     3.1. [Exercise 00 - Classical DWH](#exercise-00-classical-dwh)  
 4. [Chapter IV](#chapter-iv) \
@@ -23,7 +23,7 @@ Resume: Today you will know what DWH is and how to create a first ETL process.
 A Data Warehousing (DWH) is a process for collecting and managing data from disparate sources to provide meaningful business insights. A data warehouse is typically used to connect and analyze business data from heterogeneous sources. The data warehouse is the core of the BI system built for data analysis and reporting.
 
 ## Chapter II
-## Instructions for running the code
+## Instructions
 
 Please download a [script](src/database/model.sql) with Database Model here and apply the script to your database
 
