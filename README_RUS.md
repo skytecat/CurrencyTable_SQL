@@ -2,6 +2,8 @@
 
 ## _Data Warehouse_
 
+English readme [here](./README.md).
+
 Резюме: Сегодня вы узнаете, что такое DWH и как создать первый процесс ETL.
 
 ## Содержание
