@@ -2,6 +2,8 @@
 
 ## _Data Warehouse_
 
+Описание на русском [тут](./README_RUS.md).
+
 Resume: Today you will know what DWH is and how to create a first ETL process.
 
 ## Contents
